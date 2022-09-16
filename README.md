@@ -26,6 +26,7 @@
 # 强烈推荐推荐扫描二维码进行安装体验：
 
 ![扫码下载demo](https://tva1.sinaimg.cn/large/00831rSTly1gdfm1hbfisj3074074wey.jpg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhweilong%2FBigImageViewPager.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhweilong%2FBigImageViewPager?ref=badge_shield)
 
 ![kpFnSO.gif](https://s2.ax1x.com/2019/01/17/kpFnSO.gif)
 ![kpFefK.jpg](https://s2.ax1x.com/2019/01/17/kpFefK.jpg)
@@ -376,3 +377,6 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 ```
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhweilong%2FBigImageViewPager.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhweilong%2FBigImageViewPager?ref=badge_large)
